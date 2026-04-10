@@ -1,1 +1,1 @@
-# aiml-journey
+#My name is Mohd Mujtaba Hussain, I am starting my journey to learn AI/ML for zero. I am a Computer science student passionate about learning new things. and see you after the completion of this journey.
